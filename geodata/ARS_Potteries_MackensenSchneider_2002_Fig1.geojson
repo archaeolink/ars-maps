@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "ARS_Potteries_MackensenSchneider_2002_Fig1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "label": "Sadi Aich" }, "geometry": { "type": "Point", "coordinates": [ 8.776776520843164, 34.765862044253012 ] } },
+{ "type": "Feature", "properties": { "id": 1, "label": "Djima" }, "geometry": { "type": "Point", "coordinates": [ 9.518335788640258, 35.246720023693875 ] } },
+{ "type": "Feature", "properties": { "id": 2, "label": "Ksar el Guellai" }, "geometry": { "type": "Point", "coordinates": [ 9.011781881751624, 35.333293812040544 ] } },
+{ "type": "Feature", "properties": { "id": null, "label": "Madje" }, "geometry": { "type": "Point", "coordinates": [ 9.18409933981345, 35.359465955232928 ] } },
+{ "type": "Feature", "properties": { "id": 0, "label": "Henchir es Srira" }, "geometry": { "type": "Point", "coordinates": [ 9.361170382925255, 35.390473809618094 ] } },
+{ "type": "Feature", "properties": { "id": 0, "label": "Zegalass" }, "geometry": { "type": "Point", "coordinates": [ 9.327895287575386, 35.467941299170256 ] } },
+{ "type": "Feature", "properties": { "id": 0, "label": "Sidi Saad" }, "geometry": { "type": "Point", "coordinates": [ 9.752152753286223, 35.41662741756253 ] } },
+{ "type": "Feature", "properties": { "id": 0, "label": "Sidi Marzouk Tounsi" }, "geometry": { "type": "Point", "coordinates": [ 9.495459160587231, 35.617822349212751 ] } },
+{ "type": "Feature", "properties": { "id": 0, "label": "Chougafiya" }, "geometry": { "type": "Point", "coordinates": [ 9.897137097310658, 35.814657759709078 ] } },
+{ "type": "Feature", "properties": { "id": 0, "label": "Sidi Khalifa" }, "geometry": { "type": "Point", "coordinates": [ 10.40220550887118, 36.231794760357197 ] } },
+{ "type": "Feature", "properties": { "id": 0, "label": "Oudhna" }, "geometry": { "type": "Point", "coordinates": [ 10.187997082556397, 36.585909500740776 ] } },
+{ "type": "Feature", "properties": { "id": 0, "label": "Bordj el Djerbi" }, "geometry": { "type": "Point", "coordinates": [ 9.846333157088983, 36.767715934775097 ] } },
+{ "type": "Feature", "properties": { "id": 0, "label": "El Mahrine" }, "geometry": { "type": "Point", "coordinates": [ 9.82613042062656, 36.738674830349034 ] } },
+{ "type": "Feature", "properties": { "id": 0, "label": "Henchir el Biar" }, "geometry": { "type": "Point", "coordinates": [ 9.83444919446403, 36.717244019549064 ] } }
+]
+}
